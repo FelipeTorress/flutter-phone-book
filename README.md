@@ -10,21 +10,21 @@ The application was full developed using flutter.
 # Screenshots
 
 # Main Screen
-<p><img src="flutter-phone-book/screenshot/Main_Screen.png" width="200"></p>
+<p><img src="screenshot/Main_Screen.png" width="200"></p>
 
 # Main Screen Organization
-<p><img src="flutter-phone-book/screenshot/Sort_Option.png" width="200"></p>
+<p><img src="screenshot/Sort_Option.png" width="200"></p>
 
 # Contact Screen
-<p><img src="flutter-phone-book/screenshot/Contact_Screen.png" width="200"></p>
+<p><img src="screenshot/Contact_Screen.png" width="200"></p>
 
 # Contact Options
-<p><img src="flutter-phone-book/screenshot/Functions.png" width="200"></p>
+<p><img src="screenshot/Functions.png" width="200"></p>
 
 # Security Alerts
 <p>
-  <img src="flutter-phone-book/screenshot/Safety1.png" width="200">
-  <img src="flutter-phone-book/screenshot/Safety2.png" width="200">
+  <img src="screenshot/Safety1.png" width="200">
+  <img src="screenshot/Safety2.png" width="200">
 </p>
 
 ## Getting Started
