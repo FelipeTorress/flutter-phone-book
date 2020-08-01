@@ -20,6 +20,7 @@ ordered from A-Z or Z-A
 <p><img src="screenshot/Contact_Screen.png" width="200"></p>
 
 # Contact Options
+Call, Edit and Delete
 <p><img src="screenshot/Functions.png" width="200"></p>
 
 # Security Alerts
