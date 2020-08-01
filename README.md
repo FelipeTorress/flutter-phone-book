@@ -13,9 +13,10 @@ The application was full developed using flutter.
 <p><img src="screenshot/Main_Screen.png" width="200"></p>
 
 # Main Screen Organization
+ordered from A-Z or Z-A
 <p><img src="screenshot/Sort_Option.png" width="200"></p>
 
-# Contact Screen
+# Contact Edit/Creation screen
 <p><img src="screenshot/Contact_Screen.png" width="200"></p>
 
 # Contact Options
